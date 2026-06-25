@@ -30,13 +30,25 @@
 
 ### 📂 Featured Projects
 
-#### 🎮 Minecraft VPS Manager Bot
+#### 🔐 Elastra (currently closed-source)
+Zero-Knowledge encrypted file storage built entirely inside Telegram — no separate website, just a bot + Mini App.
+*   **Key Features:** Client-side AES-256-GCM encryption (master password never leaves device), chunked uploads via Telegram's Bot API relayed through Worker, tiered subscriptions (Stars + crypto payments), admin panel with i18n.
+*   **Stack:** Node.js, TypeScript, grammY, Worker, SQLite + Drizzle ORM.
+
+#### 📈 ...site (soon...)
+Real-time monitoring dashboard tracking "tension level" based on ... intensity analysis, calibrated via Gemini AI.
+*   **Key Features:** SSE live updates, Gemini-powered ... intensity scoring with time-decay ... logic, admin panel.
+*   **Stack:** Go, Next.js 14, Python (Telethon worker), MariaDB, Redis, Docker Compose.
+
+#### 🎮 Minecraft VPS Manager Bot (currently closed-source)
 A Telegram Bot that manages a Minecraft server cluster running in docker.
 *   **Key Features:** Automatic inactivity shutdown (saves VPS memory/CPU), direct server console interaction, status checks, and a lightweight asynchronous architecture.
-*   **Stack:** Python, Aiogram, Redis, JavaServer, Screen, Linux.
+*   **Stack:** Python, Aiogram, Redis, Java Server, Screen, Linux.
 
-#### 📈 Potuzhnometr (Потужносайт)
-*Soon*
+#### 📝 blindgraph (archive, currently closed-source)
+A Telegraph-like self-hosted publishing platform with Zero-Knowledge encryption and Telegram as the media backend.
+*   **Key Features:** AES-256-GCM + Argon2id encryption, rich-text editor (TipTap), WebSocket realtime, media stored via Telegram Bot API instead of a traditional file server.
+*   **Stack:** Go (Fiber v2), Next.js 15 + TypeScript, MariaDB.
 
 ---
 
