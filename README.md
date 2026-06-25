@@ -8,18 +8,14 @@
   <img src="https://komarev.com/ghpvc/?username=aurahustler&color=1e1e2e&style=social&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/?logo=65eeff4c209bf9c7badcd8a688136363ezgif" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 What I Do
 
-*   🤖 **Bots & Automation:** I build advanced Telegram bots, custom licensing tools with HWID security, and automation scripts.
-*   🐧 **DevOps & Sysadmin:** I spin up VPS instances, write systemd services, configure Docker stacks, and set up reverse proxies like Caddy or Nginx.
-*   🎮 **Minecraft Server Dev:** I handle server orchestration (auto-start/stop screen sessions to save CPU/RAM), Geyser cross-play setups, and write custom Java plugins when standard ones don't cut it.
-*   🖥️ **Desktop Apps:** Build clean custom tools with Electron (used to do WinForms, but web tech styling is just way better).
+*   🤖 **Bots & Automation:** I build Telegram bots, custom licensing tools with HWID security, and automation scripts.
+*   🐧 **DevOps & Sysadmin:** I spin up VPS instances, write systemd services, configure Docker stacks, and set up reverse proxies.
+*   🎮 **Minecraft Server Dev:** I handle server orchestration (auto-start/stop screen sessions to save CPU/RAM), Geyser cross-play setups, and write custom Java plugins/server-side mods when standard ones don't cut it.
+*   🖥️ **Desktop Apps:** Build clean custom tools with Electron (used to do WinForms, PyQT, CustomTKinter, but web tech styling is just way better).
 
 ---
 
@@ -35,7 +31,7 @@
 ### 📂 Featured Projects
 
 #### 🎮 Minecraft VPS Manager Bot
-A Telegram Bot that manages a Minecraft server cluster running in screen sessions on a VPS.
+A Telegram Bot that manages a Minecraft server cluster running in docker.
 *   **Key Features:** Automatic inactivity shutdown (saves VPS memory/CPU), direct server console interaction, status checks, and a lightweight asynchronous architecture.
 *   **Stack:** Python, Aiogram, Redis, JavaServer, Screen, Linux.
 
@@ -56,4 +52,4 @@ A Telegram Bot that manages a Minecraft server cluster running in screen session
 
 ### 💬 Get in Touch
 
-*   💬 **Telegram:** [TG 1](https://t.me/aurahustler) | [TG 2](https://t.me/darkblind)
+*   💬 **Telegram:** [Telegram](tg://resolve?domain=dbinit)
