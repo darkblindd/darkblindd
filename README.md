@@ -1,8 +1,4 @@
-# Yo, I'm darkblind! 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F8F8F2&width=435&lines=Full-stack+dev" alt="Typing SVG" />
-</p>
+<p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F8F8F2&width=435&lines=Wassup, I'm darkblind!" alt="Typing SVG" /></p> 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aurahustler&color=1e1e2e&style=social&label=Github+Views" alt="Github Views" />
